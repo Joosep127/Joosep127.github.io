@@ -2,3 +2,7 @@ body, main {
   background-color: black;
   color: white;
 }
+
+p {
+  text-align: right;
+}
